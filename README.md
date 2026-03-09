@@ -66,11 +66,6 @@
 
 #  GitHub Activity
 
-### GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rishika0212&show_icons=true&theme=tokyonight" />
-</p>
-
 ### GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=rishika0212&theme=tokyonight" />
@@ -84,10 +79,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rishika0212/rishika0212/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
+<img src="https://raw.githubusercontent.com/rishika0212/rishika0212/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 
