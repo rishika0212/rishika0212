@@ -6,33 +6,107 @@
 
 </div>
 
----
 
-# 🚀 About Me
+# Tech Stack
 
-* 🎓 **Robotics & Artificial Intelligence Student**
-* 🤖 Building **AI + Machine Learning Systems**
-* 📱 Developing **Flutter & Android Apps**
-* 🧠 Exploring **Agentic AI & NLP**
-* 🌍 Interested in **Open Source & GSoC**
+## Programming Languages
 
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,dart,flutter,androidstudio,firebase,fastapi,nodejs,postgres,mongodb,tailwind,html,css,tensorflow,opencv,git,github,vscode,postman"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,dart,c"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin"/>
+</p>
+
+Jetpack Compose • Android XML • Gradle • Retrofit
+
+---
+
+## Backend / APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+</p>
+
+REST APIs
+
+---
+
+## Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,mysql"/>
+</p>
+
+SQLite • Firebase Firestore
+
+---
+
+## Machine Learning / AI
+
+TensorFlow • Keras • scikit-learn
+Deep Learning • NLP • Computer Vision
+
+---
+
+## AI / Data Tools
+
+OpenCV • Hugging Face • Pandas • NumPy • NLTK • Streamlit
+
+---
+
+## Data Science
+
+Data Visualization • Machine Learning Pipelines
+
+---
+
+## Robotics / Hardware
+
+Motor Control • Power Systems • Circuit Design • ROS2
+
+---
+
+## Design & Simulation
+
+MATLAB • Simulink • AutoCAD • CATIA
+
+---
+
+## UI / UX
+
+Material Design • Responsive Layouts
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+Postman • Jupyter Notebook
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishrish529&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishrish529&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishrish529&theme=tokyonight&hide_border=true"/>
 
@@ -40,17 +114,7 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishrish529&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
+# Most Used Languages
 
 <p align="center">
 
@@ -60,33 +124,27 @@
 
 ---
 
-# 🌟 Featured Projects
-
-### ♻️ EcoSort AI
-
-Real-time plastic waste classification using **Flutter + TensorFlow Lite**
-
-### 🤖 Personal Code Reviewer
-
-Agentic AI system that scans repositories and detects **bugs, security issues, and improvements**
-
-### 🧠 NLU Bot Trainer
-
-Natural Language Understanding pipeline for **intent classification and entity recognition**
-
----
-
-# 🐍 Contribution Snake
+# GitHub Activity Graph
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishrish529&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishrish529&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Connect With Me
 
 <p align="center">
 
@@ -106,16 +164,24 @@ Natural Language Understanding pipeline for **intent classification and entity r
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rishrish529&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=rishrish529&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-<div align="center">
+# Contribution Snake
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+This animation automatically updates using GitHub Actions.
 
-</div>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rishrish529/rishrish529/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+⭐ If you like my work, consider starring my repositories.
