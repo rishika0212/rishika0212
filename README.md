@@ -1,150 +1,95 @@
 <div align="center">
 
-# 👋 Hi, I'm Rishika
+# Hi, I'm Rishika
 
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Engineer;Flutter+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Building+AI+Systems+That+Solve+Real+Problems" />
 
 </div>
 
-
-# Tech Stack
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,dart,c"/>
-</p>
-
----
-
-## Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin"/>
-</p>
-
-Jetpack Compose • Android XML • Gradle • Retrofit
-
----
-
-## Backend / APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
-</p>
-
-REST APIs
-
----
-
-## Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
-</p>
-
----
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,mysql"/>
-</p>
-
-SQLite • Firebase Firestore
-
----
-
-## Machine Learning / AI
-
-TensorFlow • Keras • scikit-learn
-Deep Learning • NLP • Computer Vision
-
----
-
-## AI / Data Tools
-
-OpenCV • Hugging Face • Pandas • NumPy • NLTK • Streamlit
-
----
-
-## Data Science
-
-Data Visualization • Machine Learning Pipelines
-
----
-
-## Robotics / Hardware
-
-Motor Control • Power Systems • Circuit Design • ROS2
-
----
-
-## Design & Simulation
-
-MATLAB • Simulink • AutoCAD • CATIA
-
----
-
-## UI / UX
-
-Material Design • Responsive Layouts
-
----
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-Postman • Jupyter Notebook
-
----
-
-# GitHub Statistics
+## Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishrish529&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishrish529&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle"/>
+<img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/ML%20Pipelines-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF4088?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros"/>
+<img src="https://img.shields.io/badge/Motor%20Control-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Systems-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Circuit%20Design-607D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Simulink-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Layouts-00BCD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter"/>
 
 </p>
 
----
 
-# Most Used Languages
+#  GitHub Activity
+
+### GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rishika0212&show_icons=true&theme=tokyonight" />
+</p>
+
+### GitHub Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=rishika0212&theme=tokyonight" />
+</p>
+
+### Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishika0212&theme=tokyo-night" />
+</p>
+
+# 🐍 Contribution Snake
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/rishika0212/rishika0212/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishrish529&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-# GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishrish529&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishrish529&theme=tokyonight"/>
-
-</p>
-
----
-
-# Connect With Me
 
 <p align="center">
 
@@ -156,32 +101,9 @@ Postman • Jupyter Notebook
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/rishrish529">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </p>
 
----
 
-# Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rishrish529&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-</p>
 
----
-
-# Contribution Snake
-
-This animation automatically updates using GitHub Actions.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rishrish529/rishrish529/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-⭐ If you like my work, consider starring my repositories.
